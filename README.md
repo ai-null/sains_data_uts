@@ -11,4 +11,4 @@ Mid semester exam of data science
 - pandas:2.2.3
 
 ### Note
-the code is a mess, won't fix because i'm lazy atm.. 🫨
+the code is a mess, too much constants, won't fix because i'm lazy atm.. 🫨
